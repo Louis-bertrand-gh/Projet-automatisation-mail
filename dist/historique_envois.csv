@@ -1,0 +1,83 @@
+﻿Date/Heure;Nom Prenom;Emplacements;Email;Statut;Plans manquants;Erreur
+25/09/2026 22:20:33;Bertarnd louis;12;louisdrive78@gmail.com;Échec;12;Aucun plan trouvé
+25/09/2026 22:24:52;louis;12;louisdrive78@gmail.com;Échec;12;Aucun plan trouvé
+25/09/2026 22:24:52;zf;12;louisdrive78@gmail.com;Échec;12;Aucun plan trouvé
+25/09/2026 22:24:52;ez;12.pdf;louisdrive78@gmail.com;Échec;12.pdf;Aucun plan trouvé
+25/09/2026 22:36:13;45;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+25/09/2026 22:36:13;ezfez++;12.pdf;louisdrive78@gmail.com;Échec;12.pdf;Aucun plan trouvé
+25/09/2026 22:36:13;zz;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+25/09/2026 22:36:13;ezfze;12.png;louisdrive78@gmail.com;Échec;12.png;Aucun plan trouvé
+25/09/2026 22:36:14;ezf;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+25/09/2026 22:36:14;fez;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+25/09/2026 22:37:04;ffrfr+;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+28/09/2026 09:48:47;ffrfr+;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+28/09/2026 09:51:28;ffrfr+;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+28/09/2026 09:52:50;ffrfr+;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+28/09/2026 10:09:01;zeff;12;louisdrive78@gmail.com;Échec;;(-2147221008, 'CoInitialize n’a pas été appelé.', None, None)
+28/09/2026 10:17:20;"f""f""12";12;louisdrive78@gmail.com;Échec;;(-2147467260, 'Opération abandonnée', None, None)
+28/09/2026 10:18:32;"f""f""12";12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 10:19:39;"f""f""12";12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 10:20:22;"f""f""12";12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 10:20:22;ezfezf;12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 10:23:13;"f""f""12";12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:23:13;ezfezf;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:23:27;"f""f""12";12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:23:27;ezfezf;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:23:27;adeez;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:26:09;louis;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:29:41;louis;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:30:26;louis;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:31:24;louis;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:31:24;louis;12;lemon.065673@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None)"
+28/09/2026 10:55:31;louis;12;louisdrive78@gmail.com;Échec;;Aucun compte Outlook n'est configuré. Ouvrez Outlook classique et ajoutez le compte du camping.
+28/09/2026 10:58:50;louis;12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 10:59:54;louis;12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 11:00:59;louis;12;louisdrive78@gmail.com;Envoyé;;
+28/09/2026 11:00:59;Thibaut Heron;12;Thibautth@huttopia.com;Envoyé;;
+28/09/2026 15:24:19;Patricia aimard;12;patricia.aimard@neuf.fr;Envoyé;;
+28/09/2026 15:24:52;Patricia aimard;12;patricia.aimard@neuf.fr;Envoyé;;
+28/09/2026 15:24:52;thibaut Heron;12;thibauth@huttopia.com;Envoyé;;
+28/09/2026 15:25:49;test;12;rille@huttopia.com;Envoyé;;
+28/09/2026 19:59:45;test;12;rille@huttopia.com;Envoyé;;
+28/09/2026 19:59:45;efez;12;louisdrive78@gmail.com;Envoyé;;
+29/09/2026 10:22:44;test;12;rille@huttopia.com;Envoyé;;
+29/09/2026 10:22:46;efez;12;louisdrive78@gmail.com;Envoyé;;
+29/09/2026 11:14:28;Louis bertrand;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 11:14:43;Louis bertrand;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 11:15:37;Louis bertrand;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 16:44:33;louis;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 16:44:33;louis Bertrand;12;lemon.065673@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 16:44:45;louis;12;louisdrive78@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 16:44:46;louis Bertrand;12;lemon.065673@gmail.com;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+29/09/2026 16:45:07;louis;12;louisdrive78@gmail.com;Envoyé;;
+29/09/2026 16:45:07;louis Bertrand;12;lemon.065673@gmail.com;Envoyé;;
+29/09/2026 16:51:19;louis;12;louisdrive78@gmail.com;Envoyé;;
+29/09/2026 16:51:21;louis Bertrand;12;lemon.065673@gmail.com;Envoyé;;
+29/09/2026 16:56:50;louis;12;louisdrive78@gmail.com;Envoyé;;
+29/09/2026 17:05:51;louis;12;louisdrive78@gmail.com;Échec;;(-2147023170, 'Échec de l’appel de procédure distante.', None, None)
+29/09/2026 17:06:12;Louis Bertrand;12;louisdrive78@gmail.com;Envoyé;;
+03/10/2026 15:34:39;louis bertrand;67;louisdrive78@gmail.com;Français;Envoyé;;
+03/10/2026 16:43:47;louis;56, 12;louisdrive78@gmail.com;Français;Envoyé;;
+03/10/2026 16:46:27;Manoua galichon;01, 87;manoua.galichon@huttopia.com;Français;Envoyé;;
+03/10/2026 16:48:37;test police;22, 86;louisdrive78@gmail.com;Français;Envoyé;;
+03/10/2026 17:02:24;louis;45;louisdrive78@gmail.com;Français;Envoyé;;
+03/10/2026 17:36:31;loii;78;louisdrive78@gmail.com;Français;Envoyé;;
+05/10/2026 09:16:19;louis;65;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Impossible de terminer l'opération. Vous n'êtes pas connecté."", None, 0, -2147352567), None)"
+05/10/2026 09:19:52;louis;65;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:19:57;louis;65;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:20:40;"e""e";65;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:25:36;"e""e";65;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:26:26;efez;67;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:31:55;dmee;98;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:32:00;dmee;98;louisdrive78@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:33:25;dmee;98;louisdrive78@gmail.com;Français;Envoyé;;
+05/10/2026 09:35:44;rrr';45;lemon.065673@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:37:28;rrr';45;lemon.065673@gmail.com;Français;Échec;;"(-2147352567, 'Une exception s’est produite.', (4096, 'Microsoft Outlook', ""Échec de l'opération."", None, 0, -2147467259), None) Vérifications : utilisez Outlook classique (le nouvel Outlook pour Windows ne prend pas en charge l'automatisation COM), ouvrez-le une fois avec le compte du camping, définissez ce compte par défaut, puis relancez l'application. Si le problème persiste, activez la prévisualisation Outlook et envoyez le message manuellement."
+05/10/2026 09:37:57;rrr';45;lemon.065673@gmail.com;Français;Envoyé;;
+05/10/2026 09:40:22;rrr';45;lemon.065673@gmail.com;Français;Envoyé;;
+05/10/2026 11:12:50;loui;56;louisdrive78@gmail.com;Français;Envoyé;;
+05/10/2026 11:39:57;Louis;89;louisdrive78@gmail.com;Français;Envoyé;;
+05/10/2026 11:41:21;Louis;89;louisdrive78@gmail.com;Français;Envoyé;;
+05/10/2026 11:41:21;louis;12, 13;louisdrive78@gmail.com;Français;Envoyé;;
+06/10/2026 16:12:44;"é""êp""é";89;louisdrive78@gmail.com;Français;Envoyé;;
+06/10/2026 16:13:14;"""r""é";12, 32;lemon.065673@gmail.com;Français;Envoyé;;

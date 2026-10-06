@@ -1,0 +1,4 @@
+{
+  "validate_before_send": false,
+  "delete_on_triple_click": true
+}
